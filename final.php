@@ -25,5 +25,6 @@
 			Copyright &copy; 2018, PHP Quizzer
 		</div>
 	</footer>
+<?php session_destroy(); ?>
 </body>
 </html>
