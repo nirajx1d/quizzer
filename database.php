@@ -1,8 +1,8 @@
 <?php
 	
 	$server = 'localhost';
-	$username = 'root';
-	$password = 'niraj@123';
+	$username = '<your-username>';
+	$password = '<your-password>';
 	$database = 'quizzer';
 
 	//Create connection
